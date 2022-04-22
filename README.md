@@ -1,1 +1,1 @@
-# Reinforcement Learning Training
+# Reinforcement Learning and Game Theory Training
